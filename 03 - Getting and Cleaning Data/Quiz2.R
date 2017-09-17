@@ -81,10 +81,8 @@ nchar(htmlCode[100])
 #(Hint this is a fixed width file format)
 
 #Try to combine the "download" and "read" function together use the command line:
-#A very useful blog: thoughtfulbloke aka David Hood:
-# https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-week-2/
 
-# also useful: https://stackoverflow.com/questions/14383710/read-fixed-width-text-file
+# useful: https://stackoverflow.com/questions/14383710/read-fixed-width-text-file
 
 data <- read.fwf(file = "https://d396qusza40orc.cloudfront.net/getdata%2Fwksst8110.for",
                  skip = 4,
