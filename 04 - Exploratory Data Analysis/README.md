@@ -1,7 +1,7 @@
-##Course Title: Exploratory Data Analysis
+## Course Title: Exploratory Data Analysis
 
-####Course Instructor: Roger D. Peng
-###Course Description:
+#### Course Instructor: Roger D. Peng
+### Course Description:
 
 This course covers the essential exploratory techniques for summarizing data. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data. We cover in detail the plotting systems in R as well as some of the basic principles of constructing data graphics. We also cover some of the common multivariate statistical techniques used to visualize high-dimensional data.
 Course Content:
@@ -13,7 +13,7 @@ Course Content:
     Clustering methods
     Dimension reduction techniques
 
-###Course Textbook
+### Course Textbook
 
 The book Exploratory Data Analysis with R covers the lecture material in this course.
 Weekly quizzes
@@ -24,7 +24,7 @@ Weekly quizzes
 
     The score from your most successful attempt will count toward your final grade.
 
-###Course Projects
+### Course Projects
 
 The two course projects will be assessed via peer assessment. In these projects, you will be asked to construct or reproduce certain plots, the purpose of which is to make you familiar with various plotting options. You will be evaluated on the plot that you produce and the code that you write to construct the plot. Course projects evaluated via peer assessment will make use of your GitHub account.
 
