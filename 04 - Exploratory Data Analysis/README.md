@@ -15,7 +15,7 @@ Course Content:
 
 ### Course Textbook
 
-The book Exploratory Data Analysis with R covers the lecture material in this course.
+The book [Exploratory Data Analysis with R](https://leanpub.com/exdata) by Roger D. Peng covers the lecture material in this course.
 Weekly quizzes
 
     There are two quizzes (Weeks 1 and 2).
@@ -39,3 +39,25 @@ Your final grade will be calculated as follows:
     Quiz 2 = 20%
     Course Project 1 = 25%
     Course Project 2 = 35%
+
+### Weekly Descriptions
+
+## Week 1
+Week 1 covers the basics of analytic graphics and the base plotting system in R.
+
+## Week 2
+Week 2 covers some of the more advanced graphing systems available in R: the Lattice system and the ggplot2 system. While the base graphics system provides many important tools for visualizing data, it was part of the original R system and lacks many features that may be desirable in a plotting system, particularly when visualizing high dimensional data. The Lattice and ggplot2 systems also simplify the laying out of plots making it a much less tedious process.
+
+## Week 3
+Week 3 covers some of the workhorse statistical methods for exploratory analysis. These methods include clustering and dimension reduction techniques that allow you to make graphical displays of very high dimensional data (many many variables). We also cover novel ways to specify colors in R so that you can use color as an important and useful dimension when making data graphics. All of this material is covered in chapters 9-12 of the textbook [Exploratory Data Analysis with R](https://leanpub.com/exdata) by Roger D. Peng.
+
+## Week 4
+This week, we'll look at two case studies in exploratory data analysis. The first involves the use of cluster analysis techniques, and the second is a more involved analysis of some air pollution data. How one goes about doing EDA is often personal, but I'm providing these videos to give you a sense of how you might proceed with a specific type of dataset. 
+
+
+
+
+
+
+
+
